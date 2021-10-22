@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">百里</string>
+    <string name="button_start">开始模拟</string>
+    <string name="button_stop">结束模拟(模拟结束后才能进行其他操作)</string>
+    <string name="button_add_point">添加路径点</string>
+    <string name="button_delete_point">删除路径点</string>
+    <string name="button_speed">速度(km/s)</string>
+    <string name="edittext_zero">0.0000</string>
+    <string name="button_mode_1">循环</string>
+    <string name="button_mode_2">往返</string>
+    <string name="button_mode_3">单程</string>
+    <string name="button_latitude">纬度</string>
+    <string name="button_longitude">经度</string>
+    <string name="edittext_one">1.0000</string>
+    <string name="button_clear_point">清空路径点</string>
+    <string name="button_goto_point">&#160;去往该位置&#160;</string>
+    <string name="button_help">说明书</string>
+    <string name="help">百里&#160;说明书\n
+        1.本app功能为动态模拟位置信息，请勿用作学习交流以外的场所。\n
+        2.使用前配置（必需）：\n
+        （1）使用前请先确保提供定位权限以及联网权限；\n
+        （2）请打开手机的开发者模式，具体方法各个厂家的手机各有不同，请自行百度；\n
+        （3）进入开发者选项，将“选择模拟位置信息应用”一项设为“百里”。\n
+        3.功能介绍：\n
+        （1）模拟自定义运动路径：点击地图上任意位置，再点击“添加路径点”，可以在地图上添加一个路径点标记。多个路径点标记会描绘一条路径。点击“开始模拟”即可模拟手机在这条路径上往返运动。\n
+        （2）模拟单点定位：当路径点只有一个时，点击“开始模拟”。\n
+        （3）通过经纬度设置路径点：手动修改“经度”、“纬度”文本框，点击“去往该位置”，再点击“添加路径点“。\n
+        （4）删除路径点：点击已添加的路径点，会显示路径点信息，再点击“删除路径点“。\n
+        4.更多提示：\n
+        （1）已添加的路径点可以通过拖动来修改位置。\n
+        （2）“纬度“，”经度“，”速度（KM/S）“这三个按钮只是个图案。\n
+        （3）结束模拟才能再次进行修改。\n
+        （4）定位一秒更新一次，速度设得太快有可能导致原地不动等现象。\n
+        （5）本app可以瞒过高德地图，百度地图，以及qq等，但无法骗过微信。\n
+        （6）部分机型可能无法运行，十分抱歉。\n
+        5.感谢高德地图的技术支持。\n
+        6.联系方式&amp;Copyright：bilibili：契里格拉刻。
+</string>
+</resources>
